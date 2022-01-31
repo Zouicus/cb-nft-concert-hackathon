@@ -16,7 +16,7 @@
 [Understanding Blockchain NFTs](https://chuta.medium.com/understanding-blockchain-powered-non-fungible-tokens-nfts-cef88850a133)
 
 [ERC721x: A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1)
-
+ 
 
 ### Solidity Basics
 
